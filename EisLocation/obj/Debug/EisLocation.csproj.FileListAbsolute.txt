@@ -1,0 +1,9 @@
+C:\Users\Vitaley\source\repos\EisLocation\bin\Debug\EisLocation.exe.config
+C:\Users\Vitaley\source\repos\EisLocation\bin\Debug\EisLocation.exe
+C:\Users\Vitaley\source\repos\EisLocation\bin\Debug\EisLocation.pdb
+C:\Users\Vitaley\source\repos\EisLocation\obj\Debug\EisLocation.csproj.AssemblyReference.cache
+C:\Users\Vitaley\source\repos\EisLocation\obj\Debug\EisLocation.Properties.Resources.resources
+C:\Users\Vitaley\source\repos\EisLocation\obj\Debug\EisLocation.csproj.GenerateResource.cache
+C:\Users\Vitaley\source\repos\EisLocation\obj\Debug\EisLocation.csproj.CoreCompileInputs.cache
+C:\Users\Vitaley\source\repos\EisLocation\obj\Debug\EisLocation.exe
+C:\Users\Vitaley\source\repos\EisLocation\obj\Debug\EisLocation.pdb
